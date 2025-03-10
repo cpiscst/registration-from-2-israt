@@ -6,10 +6,10 @@ function App() {
   return (
     <>
  <div className="flex justify-center">
- <div className="my-20 max-w-lg pl-5 border-2 p-5 ">
+ <div className="my-20 max-w-[600px] pl-5 border-2 p-5 ">
 
-<h1 className="text-6xl font-bold">
-  Registion From 
+<h1 className="text-6xl font-bold pb-10">
+  Registration From 
 </h1>
 <div className="flex justify-between">
 <div className="my-2">
